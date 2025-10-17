@@ -1,0 +1,6 @@
+# 1. Lejupielādējiet visus failus
+# 2. Instalējiet atkarības
+pip install google-generativeai python-dotenv
+
+# VAI izpildiet setup skriptu
+python setup.py
