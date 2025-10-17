@@ -1,0 +1,8 @@
+# 1. metode: .env fails
+echo "GOOGLE_API_KEY=your_actual_api_key" > .env
+
+# 2. metode: vidi mainīgais (Windows)
+set GOOGLE_API_KEY=your_actual_api_key
+
+# 3. metode: vidi mainīgais (Linux/Mac)
+export GOOGLE_API_KEY=your_actual_api_key
